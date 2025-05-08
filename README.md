@@ -1,4 +1,4 @@
-# 🚀 TIC-GrabFile
+# 🤏 TIC-GrabFile
 
 **TIC-GrabFile** is a lightweight Python utility that helps you automatically select and copy files related to a list of TESS targets (TICs) from a folder. It's ideal for organizing outputs from TESS data analysis workflows like TESS-Localize or light curve pipelines.
 
