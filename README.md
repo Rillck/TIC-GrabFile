@@ -72,7 +72,7 @@ project/
 │
 ├── TIC-GrabFile.py
 ├── TICs.txt
-└── TESS-Localize images/
+└── <original_folder>/
 ```
 
 ---
